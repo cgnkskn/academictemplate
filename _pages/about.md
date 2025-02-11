@@ -11,8 +11,8 @@ classes: wide
 
 <p style="font-size: 18px;">I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.</p>
 
-<p style="font-size: 18px;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
-<p style="font-size: 18px; margin-bottom: 2.5em;">You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br><span style="margin: 1em 0 2em 0; display: inline-block;">
+<p style="font-size: 18px; margin: 1.5em 0;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
+<p style="font-size: 18px; margin-bottom: 2em;">You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br><span style="margin: 1em 0 2em 0; display: inline-block;">
    <a href="#" style="background-color: #3274c8; 
                       color: white; 
                       padding: 0.4em 1em; 
