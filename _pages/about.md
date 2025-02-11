@@ -80,7 +80,7 @@ Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm 
     <!-- First Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
         <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: 600; line-height: 1.3;">
-            Step-by-Step Intangibles
+             <strong>Step-by-Step Intangibles</strong>
         </h3>
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
         <div style="padding: 1.2em; margin: 1.2em 0;">
@@ -100,7 +100,7 @@ Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm 
                       font-size: 0.9em;
                       display: inline-block;
                       transition: background-color 0.2s ease;">
-                Link to Paper
+                <strong>Link to Paper</strong>
             </a>
         </div>
     </div>
@@ -108,10 +108,10 @@ Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm 
     <!-- Second Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
         <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: 600; line-height: 1.3;">
-            Capital Injection in the Production Network
+            <strong>Capital Injection in the Production Network</strong>
         </h3>
         <p style="color: #7f8c8d; margin: 0.8em 0 1em 0; font-size: 0.95em;">
-            Joint work with <a href="https://www.paolozacchia.com" target="_blank" style="color: #3a86ff; font-weight: 500;">Paolo Zacchia</a> • Draft available upon request
+            Joint work with <a href="https://www.paolozacchia.com" target="_blank" style="color: #3a86ff; font-weight: 500;"><strong>Paolo Zacchia</strong></a> • Draft available upon request
         </p>
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
         <div style="padding: 1.2em; margin: 1.2em 0;">
@@ -129,7 +129,7 @@ Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm 
     <!-- Third Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
         <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: 600; line-height: 1.3;">
-            What Happened to the Intangible over Tangible Ratio?
+            <strong>What Happened to the Intangible over Tangible Ratio?</strong>
         </h3>
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
         <div style="padding: 1.2em; margin: 1.2em 0;">
