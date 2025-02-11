@@ -25,56 +25,9 @@ classes: wide
         <strong> Curriculum Vitae</strong>
     </a></span></p>
 
-<p style="font-size: 32px; color: #3274c8; font-weight: bold; margin: 0.5em 0;"> <strong>Research</strong</p>
+<p style="font-size: 32px; color: #3274c8; font-weight: bold; margin: 0.5em 0;"> <strong>Research</strong> </p>
 <hr style="border: 1.5px solid #3274c8; margin: 1em 0;">
 
-<!--
-<!-- First Paper -->
-<h2 style="font-size: 18px; color: #3274c8; font-weight: bold; margin: 1em 0;">Step-by-Step Intangibles</h2>
-<hr style="border: 1px solid #ddd; margin: 1em 0;">
-<p style="font-size: 18px; margin-bottom: 1em; text-align: justify;">
-    <strong>Abstract.</strong> Over the past decades, intangible assets have increased sharply...
-</p>
-<p style="font-size: 16px; color: #666; margin-top: 1.5em;">
-Schumpeterian Growth, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
-</p>
-<p style="margin: 1em 0 3em 0;">
-    <a href="#" style="background-color: #3274c8; 
-                      color: white; 
-                      padding: 0.4em 1em; 
-                      border-radius: 1.7px; 
-                      text-decoration: none; 
-                      font-size: 14px; 
-                      display: inline-block;
-                      transition: background-color 0.3s ease;
-                      cursor: pointer;">
-        <strong>Link to the paper</strong>
-    </a>
-</p>
-
-<!-- Second Paper -->
-<h2 style="font-size: 18px; color: #3274c8; font-weight: bold; margin: 2em 0 1em 0;">Capital Injection in the Production Network</h2>
-<p style="font-size: 16px; margin-bottom: 0.5em;">
-<strong>Joint work with <a href="https://www.paolozacchia.com" target="_blank" style="color: #1a73e8;">Paolo Zacchia</a>.</strong> 
-</p>
-<hr style="border: 1px solid #ddd; margin: 1em 0;">
-<p style="font-size: 18px; margin-bottom: 1em; text-align: justify;"><strong>Abstract.</strong> We examine the production network effects...
-</p>
-<p style="font-size: 16px; color: #666; margin-top: 1em;">
-Production Networks, Foreign Acquisitions, Markup Dynamics
-</p>
-<p style="font-size: 14px; margin-bottom: 1em;"><strong>Draft available upon request.</strong></p>
-
-<!-- Third Paper -->
-<h2 style="font-size: 18px; color: #3274c8; font-weight: bold; margin: 2em 0;">What Happened to the Intangible over Tangible Ratio?</h2>
-<hr style="border: 1px solid #ddd; margin: 0.5em 0;">
-<p style="font-size: 18px; margin-bottom: 0.5em; text-align: justify;">
-    <strong>Abstract.</strong> In this research, I investigate what caused...
-</p>
-<p style="font-size: 16px; color: #666; margin-top: 1.5em;">
-Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
-</p>
--->
 
 <div style="max-width: 1000px; margin: 0 auto; font-family: Helvetica, Arial, sans-serif; font-size: 16px;">
     <!-- First Paper -->
