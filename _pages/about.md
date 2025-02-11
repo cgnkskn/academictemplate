@@ -12,7 +12,7 @@ classes: wide
 <p style="font-size: 18px;">I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.</p>
 
 <p style="font-size: 18px; margin: 1.5em 0;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
-<p style="font-size: 18px; margin-bottom: 2em;">You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br><span style="margin: 1em 0 2em 0; display: inline-block;">
+<p style="font-size: 18px; margin-bottom: 2em;">You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br><span style="margin: 2em 0 1em 0; display: inline-block;">
    <a href="#" style="background-color: #3274c8; 
                       color: white; 
                       padding: 0.4em 1em; 
@@ -32,7 +32,7 @@ classes: wide
 <div style="max-width: 1000px; margin: 0 auto; font-family: Helvetica, Arial, sans-serif; font-size: 16px;">
     <!-- First Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-        <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: 600; line-height: 1.3;">
+        <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: bold; line-height: 1.3;">
              <strong>Step-by-Step Intangibles</strong>
         </h3>
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
@@ -51,20 +51,21 @@ classes: wide
                       border-radius: 2px; 
                       text-decoration: none; 
                       font-size: 0.9em;
+                      font-weight: bold;
                       display: inline-block;
                       transition: background-color 0.2s ease;">
-                <strong>Link to Paper</strong>
+                Link to Paper
             </a>
         </div>
     </div>
 
     <!-- Second Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-        <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: 600; line-height: 1.3;">
+        <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: bold; line-height: 1.3;">
             <strong>Capital Injection in the Production Network</strong>
         </h3>
         <p style="color: #7f8c8d; margin: 0.8em 0 1em 0; font-size: 0.95em;">
-            Joint work with <a href="https://www.paolozacchia.com" target="_blank" style="color: #3a86ff; font-weight: 500;"><strong>Paolo Zacchia</strong></a> • Draft available upon request
+            Joint work with <a href="https://www.paolozacchia.com" target="_blank" style="color: #3a86ff; font-weight: 500;">Paolo Zacchia</a> • Draft available upon request
         </p>
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
         <div style="padding: 1.2em; margin: 1.2em 0;">
@@ -81,7 +82,7 @@ classes: wide
 
     <!-- Third Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-        <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: 600; line-height: 1.3;">
+        <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: bold; line-height: 1.3;">
             <strong>What Happened to the Intangible over Tangible Ratio?</strong>
         </h3>
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
