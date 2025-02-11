@@ -299,33 +299,33 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single-teaching
-      author_profile: false
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single-teaching
+  #    author_profile: false
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single-publication
-      author_profile: false
+ # - scope:
+ #     path: ""
+ #     type: publications
+ #   values:
+ #     layout: single-publication
+ #     author_profile: false
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single-talk
-      author_profile: false
+#  - scope:
+ #     path: ""
+ #     type: talks
+ #   values:
+ #     layout: single-talk
+ #     author_profile: false
   # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single-code
-      author_profile: false
+ # - scope:
+ #     path: ""
+ #     type: code
+ #   values:
+ #     layout: single-code
+ #     author_profile: false
 
 
 
