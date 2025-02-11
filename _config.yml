@@ -103,8 +103,8 @@ author:
   name             : "Cagin Keskin"
   avatar           : "cagin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate"
-  location         : 
-  employer         : 
+  location         : "Prague, CZ"
+  employer         : "CERGE-EI"
   email            : "Cagin.Keskin@cerge-ei.cz"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
