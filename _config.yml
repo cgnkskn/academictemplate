@@ -103,7 +103,7 @@ author:
   name             : "Cagin Keskin"
   avatar           : "cagin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate"
-  location         : "Prague, CZ"
+  location         : 
   employer         : "CERGE-EI"
   email            : "Cagin.Keskin@cerge-ei.cz"
   uri              :
