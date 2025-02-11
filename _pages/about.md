@@ -16,6 +16,21 @@ classes: wide
 <p style="font-size: 18px; margin-bottom: 2.5em;">You can reach out to me at <strong style="font-size: 18px;">Cagin.Keskin@cerge-ei.cz</strong></p>
 
 
+<p style="margin: 1em 0 2em 0;">
+    <a href="/path/to/your-cv.pdf" 
+       style="background-color: #3274c8;
+              color: white;
+              padding: 0.4em 1em;
+              border-radius: 2px;
+              text-decoration: none;
+              font-size: 14px;
+              display: inline-block;
+              transition: background-color 0.3s ease;
+              cursor: pointer;">
+        <strong>Curriculum Vitae</strong>
+    </a>
+</p>
+
 <h1 style="font-size: 24px; color: #3274c8; font-weight: bold; margin: 0.5em 0;">Research</h1>
 <hr style="border: 1.5px solid #3274c8; margin: 1em 0;">
 
