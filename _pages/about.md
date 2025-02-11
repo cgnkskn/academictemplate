@@ -132,7 +132,69 @@ Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm 
     </div>
 </div>
 
+<div style="max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif; font-size: 16px;">
+    <!-- First Paper -->
+    <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2.5em; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <h3 style="margin: 0 0 0.8em 0; color: #3274c8; font-size: 1.4em; font-weight: 600; line-height: 1.3;">
+            Step-by-Step Intangibles
+        </h3>
+        <div style="background-color: #ffffff; padding: 1.2em; border-radius: 8px; margin: 1.2em 0;">
+            <p style="margin: 0; font-style: italic; color: #34495e; font-size: 1em; line-height: 1.6;">
+                <strong>Abstract.</strong> Over the past decades, intangible assets have increased sharply. This paper aims to understand how the heterogeneity of intangible assets affects firms' investment decisions across different sizes, focusing on growth, span of control, and spillover effects...
+            </p>
+        </div>
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em;">
+            <div style="color: #95a5a6;">
+                Schumpeterian Growth, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
+            </div>
+            <a href="#" style="background-color: #3274c8; 
+                              color: white; 
+                              padding: 0.4em 1em; 
+                              border-radius: 2px; 
+                              text-decoration: none; 
+                              font-weight: 500;">
+                Link to Paper
+            </a>
+        </div>
+    </div>
 
+    <!-- Second Paper -->
+    <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2.5em; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <h3 style="margin: 0 0 0.8em 0; color: #3274c8; font-size: 1.4em; font-weight: 600; line-height: 1.3;">
+            Capital Injection in the Production Network
+        </h3>
+        <p style="color: #7f8c8d; margin: 0.6em 0; font-size: 0.95em;">
+            Joint work with <a href="https://www.paolozacchia.com" target="_blank" style="color: #1a73e8;">Paolo Zacchia</a> • Draft available upon request
+        </p>
+        <div style="background-color: #ffffff; padding: 1.2em; border-radius: 8px; margin: 1.2em 0;">
+            <p style="margin: 0; font-style: italic; color: #34495e; font-size: 1em; line-height: 1.6;">
+                <strong>Abstract.</strong> We examine the production network effects of domestic vs. foreign acquisitions of Turkish firms...
+            </p>
+        </div>
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em;">
+            <div style="color: #95a5a6;">
+                Production Networks, Foreign Acquisitions, Markup Dynamics
+            </div>
+        </div>
+    </div>
+
+    <!-- Third Paper -->
+    <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2.5em; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <h3 style="margin: 0 0 0.8em 0; color: #3274c8; font-size: 1.4em; font-weight: 600; line-height: 1.3;">
+            What Happened to the Intangible over Tangible Ratio?
+        </h3>
+        <div style="background-color: #ffffff; padding: 1.2em; border-radius: 8px; margin: 1.2em 0;">
+            <p style="margin: 0; font-style: italic; color: #34495e; font-size: 1em; line-height: 1.6;">
+                <strong>Abstract.</strong> In this research, I investigate what caused the intangible over tangible ratio to increase...
+            </p>
+        </div>
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em;">
+            <div style="color: #95a5a6;">
+                Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
