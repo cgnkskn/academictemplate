@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
 
-<p style="font-size: small;">I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.</p>
 
-<p style="font-size: small;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
+<p style="font-size: medium;">I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.</p>
 
-<p style="font-size: small;">You can reach out to me at <strong style="font-size: small;">Cagin.Keskin@cerge-ei.cz</strong></p>
+<p style="font-size: medium;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
 
-<!DOCTYPE html>
+<p style="font-size: medium;">You can reach out to me at <strong style="font-size: small;">Cagin.Keskin@cerge-ei.cz</strong></p>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Working Papers</title>
+    <title>Working Progress</title>
     <style>
         h1 {
             font-weight: bold;
@@ -33,14 +33,14 @@ Stuff & Things
     </style>
 </head>
 <body>
-    <h1>Is an Image Worth a Thousand Votes? Evidence from a Natural Experiment in Political Advertising</h1>
-    <p>I measure the effects of street-level political advertising on voting behavior. I use a novel dataset on ad location in a major Spanish city during elections for the national parliament as well as granular socio-economic and voting data. This set-up, where more than two parties are running for office and elections are very competitive, allows me to explore the heterogeneous effects of ads across parties as well as how parties’ ads affect other parties’ vote shares. To identify the effects of parties’ ads, I exploit a legally mandated randomized assignment of ad location to parties across multiple years. I find that a party’s own ads have a positive effect on its vote share, although the effects are heterogeneous across parties. A one standard deviation increase in the number of ads increases a party’s vote share by 0.87 percentage points on average. Ads of parties with ideologically distant platforms consistently have a negative effect on a party’s vote share. In contrast, ads of parties that are close competitors may act either as complements or substitutes in different years.</p>
-    
+    <h1>Step-by-Step Intangibles</h1>
+    <p>Over the past decades, intangible assets have increased sharply. This paper aims to understand how the heterogeneity of intangible assets affects firms’ investment decisions across different sizes, focusing on growth, span of control, and spillover effects. I distinguish between two types of intangible assets: transferable (R&D) and embedded (brand value and organizational capital), each influencing business dynamics differently. The results indicate that firms with fewer production lines invest more in transferable intangible assets, while firms with many production lines prioritize embedded intangible assets. In the long run, embedded intangible assets have a level effect rather than a growth effect on output, whereas transferable intangible assets affect both transitional and long-run periods. While markups increase with both types of intangible assets, the markup and profit per production line decrease due to the span of control. Furthermore, the non-transferable nature of embedded intangible assets leads to reduced spillover effects in larger firms, driven by their higher investment in these assets.  </p>
+
     <p><strong>Best Applied Paper by a Young Researcher, Econometric Society – European Meeting 2023</strong></p>
 
     <p><strong>Media Coverage:</strong> <a href="https://www.nadaesgratis.es" target="_blank">Nada es Gratis</a></p>
 
     <h1>Better the Devil You Don’t Know? Economic Shocks, New Party Emergence, and Changes in Voting Behavior</h1>
-    <p>This paper analyses the effects of an economic shock on the emergence of new parties and other changes in voting parties by using regional variation in the exposure to the shock. I find that a worsening of economic conditions as measured by unemployment rate leads to an increase in electoral competition and volatility. In particular, the deeper the effects of the recession in an area, the larger the number of new parties that emerge and become more successful, and there is an increase in the changes in vote shares. On the other hand, the vote share of parties previously in government decreases and a decrease in vote share concentration.</p>
+    <p>This paper analyzes the effects of economic shocks on new party emergence and changes in voting behavior. It finds that worsened economic conditions, particularly rising unemployment, lead to increased electoral competition, with more new parties emerging and vote shares becoming more volatile. Parties in power typically see a decrease in vote share.</p>
 </body>
 </html>
