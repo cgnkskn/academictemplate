@@ -88,50 +88,49 @@ Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm 
 
 
 
-<div style="max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif;">
+<div style="max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif; font-size: 14px;">
     <!-- Paper 1 -->
-    <div style="background-color: #f5f7fa; padding: 1.5em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <h3 style="margin-top: 0; color: #2c3e50;">Capital Injection in the Production Network</h3>
-        <p style="color: #7f8c8d; margin: 0.5em 0; font-size: 0.95em;">
+    <div style="background-color: #f5f7fa; padding: 1.2em; margin-bottom: 1.5em; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="margin: 0 0 0.5em 0; color: #2c3e50; font-size: 1.15em; font-weight: 600;">
+            Capital Injection in the Production Network
+        </h3>
+        <p style="color: #7f8c8d; margin: 0.4em 0; font-size: 0.9em;">
             Joint work with Cagin Keskin • Draft available upon request
         </p>
-        <div style="background-color: #ffffff; padding: 1em; border-radius: 4px; margin: 1em 0;">
-            <p style="margin: 0; font-style: italic; color: #34495e;">
+        <div style="background-color: #ffffff; padding: 0.8em; border-radius: 4px; margin: 0.8em 0;">
+            <p style="margin: 0; font-style: italic; color: #34495e; font-size: 0.9em; line-height: 1.4;">
                 <strong>Abstract.</strong> We examine the production network effects of domestic vs. foreign acquisitions of Turkish firms. Following foreign (but not domestic) acquisitions, we observe an erosion of the acquired firms' markup, that is compensated by increased markups of those firms' upstream sellers.
             </p>
         </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.9em;">
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85em;">
             <div style="color: #95a5a6;">
                 February 10, 2025 • Paolo • Firm productivity, Input-Output, Network formation
             </div>
-            <a href="#" style="color: #3498db; text-decoration: none; font-weight: bold;">Leave a comment</a>
+            <a href="#" style="color: #3498db; text-decoration: none; font-weight: 500;">Leave a comment</a>
         </div>
     </div>
 
     <!-- Paper 2 -->
-    <div style="background-color: #f5f7fa; padding: 1.5em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <h3 style="margin-top: 0; color: #2c3e50;">Generalized AKM: Theory and Evidence</h3>
-        <p style="color: #7f8c8d; margin: 0.5em 0; font-size: 0.95em;">
+    <div style="background-color: #f5f7fa; padding: 1.2em; margin-bottom: 1.5em; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="margin: 0 0 0.5em 0; color: #2c3e50; font-size: 1.15em; font-weight: 600;">
+            Generalized AKM: Theory and Evidence
+        </h3>
+        <p style="color: #7f8c8d; margin: 0.4em 0; font-size: 0.9em;">
             Joint work with Francesco Del Prato and Yaroslav Korobka • Slides available on request
         </p>
-        <div style="background-color: #ffffff; padding: 1em; border-radius: 4px; margin: 1em 0;">
-            <p style="margin: 0; font-style: italic; color: #34495e;">
+        <div style="background-color: #ffffff; padding: 0.8em; border-radius: 4px; margin: 0.8em 0;">
+            <p style="margin: 0; font-style: italic; color: #34495e; font-size: 0.9em; line-height: 1.4;">
                 <strong>Abstract.</strong> We revisit the wage decomposition literature by allowing for a non-parametric function of both worker-and firm-level covariates in a wage equation with two-way (worker and firm) fixed effects. We develop theoretical results about the estimation of key covariance components and an application on Portuguese data.
             </p>
         </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.9em;">
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85em;">
             <div style="color: #95a5a6;">
                 February 10, 2025 • Paolo • Econometrics of networks, Human capital, Labor markets
             </div>
-            <a href="#" style="color: #3498db; text-decoration: none; font-weight: bold;">Leave a comment</a>
+            <a href="#" style="color: #3498db; text-decoration: none; font-weight: 500;">Leave a comment</a>
         </div>
     </div>
 </div>
-
-
-
-
-
 
 
 
