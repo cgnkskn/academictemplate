@@ -13,10 +13,7 @@ classes: wide
 
 <p style="font-size: 18px;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
 
-<p style="font-size: 18px; margin-bottom: 2.5em;">You can reach out to me at <strong style="font-size: 18px;">Cagin.Keskin@cerge-ei.cz</strong></p>
-
-
-<p style="margin: 1em 0 2em 0;">
+<p style="font-size: 18px; margin-bottom: 2.5em;">You can reach out to me at <strong style="font-size: 18px;">Cagin.Keskin@cerge-ei.cz</strong> and here my style="margin: 1em 0 2em 0;">
     <a href="/path/to/your-cv.pdf" 
        style="background-color: #3274c8;
               color: white;
@@ -76,4 +73,50 @@ Production Networks, Foreign Acquisitions, Markup Dynamics
 </p>
 
 <p style="font-size: 14px; margin-bottom: 1em;"><strong>Draft available upon request.</strong></p>
+
+
+<!-- Third Paper -->
+<h2 style="font-size: 18px; color: #3274c8; font-weight: bold; margin: 1em 0;">What Happened to the Intangible over Tangible Ratio?</h2>
+<hr style="border: 1px solid #ddd; margin: 1em 0;">
+<p style="font-size: 18px; margin-bottom: 1em; text-align: justify;">
+    <strong>Abstract.</strong> In this research, I investigate what caused the intangible over tangible ratio to increase. One explanation for the surge in intangible assets is the increase driven by globalization and skill-biased task specialization. Globalization has expanded market size and intensified competition, making the marginal cost advantage more significant through intangibles. This increase in market size and competition encourages firms to invest more in intangible assets. Additionally, skill-biased task specialization enhances the importance of a firm’s organizational capital. The underlying intuition is that the production of high-skill labor requires intensive management skills, prompting firms to invest more in organizational capital to manage the production process efficiently. To analyze the effects of globalization and skill-biased technological change on the intangible-to-tangible asset ratio, I incorporate directed technological change within the Schumpeterian step-by-step innovation model.
+</p>
+
+<p style="font-size: 16px; color: #666; margin-top: 1.5em;">
+Directed Technological Change, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
+</p>
+
+<p style="margin: 1em 0 3em 0;">
+    <a href="#" style="background-color: #3274c8; 
+                      color: white; 
+                      padding: 0.4em 1em; 
+                      border-radius: 1.7px; 
+                      text-decoration: none; 
+                      font-size: 14px; 
+                      display: inline-block;
+                      transition: background-color 0.3s ease;
+                      cursor: pointer;">
+        <strong>Link to the paper</strong>
+    </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
