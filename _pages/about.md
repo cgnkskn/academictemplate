@@ -25,7 +25,7 @@ classes: wide
         <strong> Curriculum Vitae</strong>
     </a></span></p>
 
-<h1 style="font-size: 32px; color: #3274c8; font-weight: bold; margin: 0.5em 0;">Research</h1>
+<p style="font-size: 32px; color: #3274c8; font-weight: bold; margin: 0.5em 0;"> <strong>Research</strong</p>
 <hr style="border: 1.5px solid #3274c8; margin: 1em 0;">
 
 <!--
