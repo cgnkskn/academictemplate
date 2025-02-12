@@ -12,18 +12,26 @@ classes: wide
 <p style="font-size: 18px;">I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.</p>
 
 <p style="font-size: 18px; margin: 1.5em 0;">My research interest lies in endogenous growth theory, firm dynamics, networks, and applied econometrics.</p>
-<p style="font-size: 18px; margin-bottom: 2em;">You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br><span style="margin: 2em 0 1em 0; display: inline-block;">
-   <a href="#" style="background-color: #3274c8; 
-                      color: white; 
-                      padding: 0.6em 1em; 
-                      border-radius: 2px; 
-                      text-decoration: none; 
-                      font-size: 14px; 
-                      display: inline-block;
-                      transition: background-color 0.3s ease;
-                      cursor: pointer;">
-        <strong><a href="https://www.dropbox.com/scl/fi/jart7j64dpfccoi6cgsn6/cagin_cv.pdf?rlkey=fs5oetcc2tsewa2ahlmpvceri&st=8y4excyy&dl=0" Curriculum Vitae</a></strong> 
-    </a></span></p>
+<p style="font-size: 18px; margin-bottom: 2em;">
+  You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br>
+  <span style="margin: 2em 0 1em 0; display: inline-block;">
+    <a 
+      href="https://www.dropbox.com/scl/fi/jart7j64dpfccoi6cgsn6/cagin_cv.pdf?rlkey=fs5oetcc2tsewa2ahlmpvceri&st=8y4excyy&dl=0" 
+      style="
+        background-color: #3274c8;
+        color: white;
+        padding: 0.6em 1em;
+        border-radius: 2px;
+        text-decoration: none;
+        font-size: 14px;
+        display: inline-block;
+        transition: background-color 0.3s ease;
+        cursor: pointer;
+      ">
+      <strong>Curriculum Vitae</strong>
+    </a>
+  </span>
+</p>
 
 <p style="font-size: 32px; color: #3274c8; font-weight: bold; margin: 0.5em 0;"> <strong>Research</strong> </p>
 <hr style="border: 1.5px solid #3274c8; margin: 1em 0;">
