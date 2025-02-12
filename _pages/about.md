@@ -15,8 +15,8 @@ classes: wide
 <p style="font-size: 18px; margin-bottom: 2em;">You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br><span style="margin: 2em 0 1em 0; display: inline-block;">
    <a href="#" style="background-color: #3274c8; 
                       color: white; 
-                      padding: 0.4em 1em; 
-                      border-radius: 1.7px; 
+                      padding: 0.6em 1em; 
+                      border-radius: 2px; 
                       text-decoration: none; 
                       font-size: 14px; 
                       display: inline-block;
