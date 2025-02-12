@@ -56,20 +56,25 @@ classes: wide
             <div style="color: #95a5a6; width: 70%;">
                 Schumpeterian Growth, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
             </div>
-            <a href="#" style="background-color: #3a86ff; 
-                      color: white; 
-                      padding: 0.5em 1em; 
-                      border-radius: 2px; 
-                      text-decoration: none; 
-                      font-size: 0.9em;
-                      font-weight: bold;
-                      display: inline-block;
-                      transition: background-color 0.2s ease;">
-                Link to Paper
-            </a>
+         <a 
+      href="https://www.dropbox.com/scl/fi/f5zgs9styazjb1efnf1a0/Step_by_Step_Intangibles.pdf?rlkey=bsee18athavpp08ypcbg8jk8v&st=14fdrdzl&dl=0"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="
+        background-color: #3274c8;
+        color: white;
+        padding: 0.6em 1em;
+        border-radius: 2px;
+        text-decoration: none;
+        font-size: 14px;
+        display: inline-block;
+        transition: background-color 0.3s ease;
+        cursor: pointer;
+      ">
+      <strong> Link to Paper</strong>
+    </a>
         </div>
     </div>
-
     <!-- Second Paper -->
     <div style="background-color: #f5f7fa; padding: 2em; margin-bottom: 2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
         <h3 style="margin: 0 0 1em 0; color: #3274c8; font-size: 1.3em; font-weight: bold; line-height: 1.3;">
