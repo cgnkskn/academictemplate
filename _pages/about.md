@@ -22,7 +22,7 @@ classes: wide
                       display: inline-block;
                       transition: background-color 0.3s ease;
                       cursor: pointer;">
-        <strong> Curriculum Vitae</strong>
+        <strong><a href="https://www.dropbox.com/scl/fi/jart7j64dpfccoi6cgsn6/cagin_cv.pdf?rlkey=fs5oetcc2tsewa2ahlmpvceri&st=8y4excyy&dl=0" Curriculum Vitae</a></strong> 
     </a></span></p>
 
 <p style="font-size: 32px; color: #3274c8; font-weight: bold; margin: 0.5em 0;"> <strong>Research</strong> </p>
