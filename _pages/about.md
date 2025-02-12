@@ -70,7 +70,7 @@ classes: wide
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
         <div style="padding: 1.2em; margin: 1.2em 0;">
             <p style="margin: 0; color: #34495e; font-size: 1em; line-height: 1.6; text-align: justify;">
-                <strong>Abstract.</strong> We examine the production network effects of domestic vs. foreign acquisitions of Turkish firms. Following foreign (not domestic) acquisitions, we observe an erosion of the acquired firms' markup that is compensated by increased markups of those firms' upstream sellers. Using comprehensive firm-level data and network analysis techniques, we trace how ownership changes propagate through supply chains. The findings reveal that foreign acquisitions lead to strategic reallocations of market power within networks, with domestic suppliers capturing value through increased pricing power while acquired firms face competitive pressures to reduce margins.
+                <strong>Abstract.</strong> We examine the production network effects of domestic vs. foreign acquisitions of Turkish firms. Following foreign (but not domestic) acquisitions, we observe an erosion of the acquired firms’ markup, that is compensated by increased markups of those firms’ upstream sellers.
             </p>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; margin-top: 1.2em;">
