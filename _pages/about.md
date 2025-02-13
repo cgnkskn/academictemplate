@@ -16,7 +16,7 @@ classes: wide
   You can reach out to me at <strong>Cagin.Keskin@cerge-ei.cz</strong><br>
   <span style="margin: 2em 0 1em 0; display: inline-block;">
     <a 
-      href="https://www.dropbox.com/scl/fi/jart7j64dpfccoi6cgsn6/cagin_cv.pdf?rlkey=fs5oetcc2tsewa2ahlmpvceri&st=8y4excyy&dl=0"
+      href="https://www.dropbox.com/scl/fi/mazg8v0ngkapsekiw6agf/cagin_cv.pdf?rlkey=2r9unpfriahkhqmvhke2po4lo&st=w5wuegj0&dl=0"
       target="_blank"
       rel="noopener noreferrer"
       style="
@@ -49,7 +49,7 @@ classes: wide
         <hr style="border: 0.5px solid rgba(0,0,0,0.1); margin: 0.5em 0;">
         <div style="padding: 1.2em; margin: 1.2em 0;">
             <p style="margin: 0; color: #34495e; font-size: 1em; line-height: 1.6; text-align: justify;">
-                <strong>Abstract.</strong> This paper examines how intangible assets affect investment decisions across firm sizes, considering the span of control. I differentiate between two types of intangible assets: transferable (R&D) and embedded (brand value and organizational capital), each impacting business dynamics in distinct ways. The results show that firms with fewer production lines invest more in transferable intangible assets, while larger firms prioritize embedded intangible assets due to diminishing returns in managerial productivity. In the long term, embedded intangible assets have a level effect on output, whereas transferable intangible assets are the engine of long-term growth. Both types of intangible assets increase markups, but larger firms experience lower markups and productivity per production line due to the span of control. Furthermore, the non-transferable nature of embedded intangible assets leads to reduced spillover effects in larger firms, driven by their higher investment in these assets.
+                <strong>Abstract.</strong> This paper examines how intangible assets affect investment decisions across firm sizes, considering the span of control. I differentiate     between two types of intangible assets: transferable (R&D) and embedded (brand value and organizational capital), each impacting business dynamics in distinct ways. The results show that firms with fewer production lines invest more in transferable intangible assets, while larger firms prioritize embedded intangible assets due to diminishing returns in managerial productivity. In the long term, embedded intangible assets have a level effect on output, whereas transferable intangible assets are the engine of long-term growth. Both types of intangible assets increase markups, but larger firms experience lower markups and productivity per production line due to the span of control. Furthermore, the nontransferable nature of embedded intangible assets leads to reduced spillover effects in larger firms, driven by their higher investment in these assets.
             </p>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95em; margin-top: 1.2em;">
@@ -57,7 +57,7 @@ classes: wide
                 Schumpeterian Growth, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
             </div>
          <a 
-      href="https://www.dropbox.com/scl/fi/f5zgs9styazjb1efnf1a0/Step_by_Step_Intangibles.pdf?rlkey=bsee18athavpp08ypcbg8jk8v&st=14fdrdzl&dl=0"
+      href="https://www.dropbox.com/scl/fi/pzgzq8emrkiok044dzchu/Step_by_Step_Intangibles.pdf?rlkey=rmq9pweir7xaph61vyx3p7wil&st=lnyqlmcg&dl=0"
       target="_blank"
       rel="noopener noreferrer"
       style="
